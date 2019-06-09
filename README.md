@@ -1,29 +1,16 @@
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
+# Search in Devdocs
+Search in Devdocs is an Alfred Workflow for documentation search in [devdocs.io](https://devdocs.io).
 
 ## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
+Download [here](https://raw.githubusercontent.com/willbchang/alfred-search-in-devdocs/master/Search%20in%20Devdocs.alfredworkflow).
 
 ## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+<kbd>alt</kbd> + <kbd>d</kbd>
+- [x] Press hotkey without selection, it will open devdocs.io and the cursor will foucs on input area.
+- [x] Select text and press hotkey.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 [MIT](LICENSE)
