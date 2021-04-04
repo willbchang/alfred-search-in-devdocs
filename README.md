@@ -6,8 +6,8 @@ Download [here](https://github.com/willbchang/alfred-search-in-devdocs/raw/maste
 
 ## Usage
 <kbd>alt</kbd> + <kbd>d</kbd>
-- [x] Press hotkey without selection, it will open devdocs.io and the cursor will foucs on input area.
-- [x] Select text and press hotkey.
+- [x] Press hotkey without selection, it will open devdocs.io and the cursor will foucs on input area, you can type to search.
+- [x] Select text and press hotkey, it will do the thing above for you.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
