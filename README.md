@@ -2,7 +2,7 @@
 Search in Devdocs is an Alfred Workflow for documentation search in [devdocs.io](https://devdocs.io).
 
 ## Installation
-Download [here](https://raw.githubusercontent.com/willbchang/alfred-search-in-devdocs/master/Search%20in%20Devdocs.alfredworkflow).
+Download [here](https://github.com/willbchang/alfred-search-in-devdocs/raw/master/Search%20in%20DevDocs.alfredworkflow).
 
 ## Usage
 <kbd>alt</kbd> + <kbd>d</kbd>
